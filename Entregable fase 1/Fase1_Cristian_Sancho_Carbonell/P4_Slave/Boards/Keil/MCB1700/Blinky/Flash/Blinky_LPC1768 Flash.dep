@@ -1,0 +1,80 @@
+Dependencies for Project 'Blinky', Target 'LPC1768 Flash': (DO NOT MODIFY !)
+F (.\I2C_slave.c)(0x607C847D)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\i2c_slave.o --omf_browse .\flash\i2c_slave.crf --depend .\flash\i2c_slave.d)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include\Driver_I2C.h)(0x5C8A86EC)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A86EC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBDC52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBDC4E)
+I (LED_LPC1768.h)(0x6073EFAA)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A86EC)
+F (.\LED_LPC1768.c)(0x6073EFAA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\led_lpc1768.o --omf_browse .\flash\led_lpc1768.crf --depend .\flash\led_lpc1768.d)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBDC4E)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B9776B4)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (LED_LPC1768.h)(0x6073EFAA)
+F (.\LED_LPC1768.h)(0x6073EFAA)()
+F (.\Abstract.txt)(0x6073EFA9)()
+F (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib)(0x5C8BC26A)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x6073EFAC)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\rtx_conf_cm.o --omf_browse .\flash\rtx_conf_cm.crf --depend .\flash\rtx_conf_cm.d)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A86EC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBDC52)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x5C8A86EC)
+F (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\I2C_LPC17xx.c)(0x5D5BE3CA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\i2c_lpc17xx.o --omf_browse .\flash\i2c_lpc17xx.crf --depend .\flash\i2c_lpc17xx.d)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\I2C_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBDC52)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8FB044)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B9776B4)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBDC4E)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include\Driver_I2C.h)(0x5C8A86EC)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A86EC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBDC52)
+I (.\RTE\Device\LPC1768\RTE_Device.h)(0x6073EFAD)
+I (.\RTE\_LPC1768_Flash\RTE_Components.h)(0x6073EFAD)
+F (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.c)(0x5D5BE3CA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\gpio_lpc17xx.o --omf_browse .\flash\gpio_lpc17xx.crf --depend .\flash\gpio_lpc17xx.d)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8FB044)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B9776B4)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+F (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.c)(0x5D5BE3CA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\pin_lpc17xx.o --omf_browse .\flash\pin_lpc17xx.crf --depend .\flash\pin_lpc17xx.d)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8FB044)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B9776B4)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBDC4E)
+F (RTE\Device\LPC1768\RTE_Device.h)(0x6073EFAD)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x6073EFAD)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\flash\startup_lpc17xx.lst --xref -o .\flash\startup_lpc17xx.o --depend .\flash\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x6073EFAD)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Flash-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Driver\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver-D__UVISION_VERSION="528" -D_RTE_ -DLPC175x_6x-o .\flash\system_lpc17xx.o --omf_browse .\flash\system_lpc17xx.crf --depend .\flash\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B9776B4)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FB044)
+I (C:\Users\crisa\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)

@@ -1,0 +1,19 @@
+
+State Machine - |MEDTH|procesador_medida:THPROC|estado
+Name estado.chequeo_fin_escr estado.comando_escritura estado.escritura4 estado.escritura3 estado.escritura2 estado.escritura1 estado.espera_tic 
+estado.espera_tic 0 0 0 0 0 0 0 
+estado.escritura1 0 0 0 0 0 1 1 
+estado.escritura2 0 0 0 0 1 0 1 
+estado.escritura3 0 0 0 1 0 0 1 
+estado.escritura4 0 0 1 0 0 0 1 
+estado.comando_escritura 0 1 0 0 0 0 1 
+estado.chequeo_fin_escr 1 0 0 0 0 0 1 
+
+State Machine - |MEDTH|periferico_i2c:I2C|interfaz_i2c:U1|ctrl_i2c:U1|estado
+Name estado.stop estado.inhabilitar_SCL estado.ACK estado.tx_byte estado.cargar_byte estado.libre 
+estado.libre 0 0 0 0 0 0 
+estado.cargar_byte 0 0 0 0 1 1 
+estado.tx_byte 0 0 0 1 0 1 
+estado.ACK 0 0 1 0 0 1 
+estado.inhabilitar_SCL 0 1 0 0 0 1 
+estado.stop 1 0 0 0 0 1 

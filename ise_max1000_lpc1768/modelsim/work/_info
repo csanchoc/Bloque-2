@@ -1,0 +1,1611 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/PFCs/FVC/vhdl/IDCT_1clock/IDCT_2D_PROC/modelsim
+Eagente_slave_i2c
+Z0 w1618137488
+Z1 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z2 DPx4 work 21 pack_random_functions 0 22 F>9H=kQ^j[57XcUT2JENK1
+Z3 DPx4 work 21 pack_agente_slave_i2c 0 22 i1TAaLHQ3^G?R7PGmWMAB2
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 dC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim
+Z9 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/agente_slave_i2c.vhd
+Z10 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/agente_slave_i2c.vhd
+l0
+L11
+Vjn^3aSY0A8HD`Uje5RBP?0
+!s100 =4b7FJbj[YPUeGfT_nY3m1
+Z11 OV;C;10.4d;61
+32
+Z12 !s110 1618770098
+!i10b 1
+Z13 !s108 1618770098.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/agente_slave_i2c.vhd|
+Z15 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/agente_slave_i2c.vhd|
+!i113 1
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1
+Asim_struct
+Z18 DPx4 work 18 pack_seq_slave_i2c 0 22 f3jIdLM[^Bbb`In31PWaX3
+Z19 DEx4 work 19 sequencer_slave_i2c 0 22 ej:DjLO5DV[HAd[nE<h7<2
+Z20 DEx4 work 17 monitor_slave_i2c 0 22 ?]X@Sgo[QicRV^1F83?f83
+Z21 DEx4 work 18 colector_slave_i2c 0 22 1haYeohBAgMGT?IeT[]cY1
+Z22 DEx4 work 19 responder_slave_i2c 0 22 k?liIK5KYNe=BWn1ZBlKC2
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z23 DEx4 work 16 agente_slave_i2c 0 22 jn^3aSY0A8HD`Uje5RBP?0
+l32
+L22
+V?_bB@gbzB_e^RjYPh`Of90
+!s100 V`cKN71m;o4YkA@;1Y=dP3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Ecnt_horas
+Z24 w1515412032
+R4
+R5
+R6
+R7
+Z25 dG:/Asignaturas/DD2/2019/MEDTH/modelsim
+Z26 8G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_horas.vhd
+Z27 FG:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_horas.vhd
+l0
+L5
+V1:^:2@jG6m8UaXN<z0<:=2
+!s100 aI8e><ABL=BzoeDnk=bS92
+Z28 OV;C;10.5b;63
+32
+Z29 !s110 1552581831
+!i10b 1
+Z30 !s108 1552581831.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_horas.vhd|
+Z32 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_horas.vhd|
+!i113 1
+R16
+Z33 tExplicit 1 CvgOpt 0
+Artl
+R4
+R5
+R6
+R7
+Z34 DEx4 work 9 cnt_horas 0 22 1:^:2@jG6m8UaXN<z0<:=2
+l32
+L19
+VeD?VVEW8lXh?UKah`NDE_1
+!s100 XA3RllgfBM^AIRc51bFoR2
+R28
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R16
+R33
+Ecnt_min
+Z35 w1515338462
+R4
+R5
+R6
+R7
+R25
+Z36 8G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_min.vhd
+Z37 FG:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_min.vhd
+l0
+L5
+VoAH2adR97];cBg09a6bod0
+!s100 aHL4EU5hg<zV>=noLWdU>2
+R28
+32
+Z38 !s110 1552581832
+!i10b 1
+Z39 !s108 1552581832.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_min.vhd|
+Z41 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_min.vhd|
+!i113 1
+R16
+R33
+Artl
+R4
+R5
+R6
+R7
+Z42 DEx4 work 7 cnt_min 0 22 oAH2adR97];cBg09a6bod0
+l21
+L17
+VDI>Xb:@nEelhXXX4b2n=k0
+!s100 LCIj>zK80?]n6`M056XV70
+R28
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R16
+R33
+Ecnt_reloj
+Z43 w1515338661
+R4
+R5
+R6
+R7
+R25
+Z44 8G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_reloj.vhd
+Z45 FG:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_reloj.vhd
+l0
+L5
+VO7k9o5bWIkYKbHFgMG3b^1
+!s100 76RXSk:YS<>>Yfd3`Pz1J3
+R28
+32
+Z46 !s110 1552581833
+!i10b 1
+Z47 !s108 1552581833.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_reloj.vhd|
+Z49 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_reloj.vhd|
+!i113 1
+R16
+R33
+Aestructural
+R34
+R42
+Z50 DEx4 work 7 cnt_seg 0 22 VC27CeKcY4XXBi4;HKzXQ3
+R4
+R5
+R6
+R7
+Z51 DEx4 work 9 cnt_reloj 0 22 O7k9o5bWIkYKbHFgMG3b^1
+l26
+L22
+VGLdd^B1CHQ`cFJ1CFKMXK0
+!s100 m2JX]PDP7ePdY=@O]UUGP3
+R28
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R16
+R33
+Ecnt_seg
+Z52 w1515339540
+R4
+R5
+R6
+R7
+R25
+Z53 8G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_seg.vhd
+Z54 FG:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_seg.vhd
+l0
+L5
+VVC27CeKcY4XXBi4;HKzXQ3
+!s100 <H<dG<kLmzAY7J3?Di<9S0
+R28
+32
+R38
+!i10b 1
+R39
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_seg.vhd|
+Z56 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/cnt_seg.vhd|
+!i113 1
+R16
+R33
+Artl
+R4
+R5
+R6
+R7
+R50
+l18
+L15
+VT:H7?aX3fCQB4^GAzlOgS1
+!s100 Zk>A@O@^mYb_KDeY1d@FC2
+R28
+32
+R38
+!i10b 1
+R39
+R55
+R56
+!i113 1
+R16
+R33
+Ecolector_slave_i2c
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z57 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/colector_slave_i2c.vhd
+Z58 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/colector_slave_i2c.vhd
+l0
+L35
+V1haYeohBAgMGT?IeT[]cY1
+!s100 5RX2icEjCZEF2zOim1^je2
+R11
+32
+R12
+!i10b 1
+R13
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/colector_slave_i2c.vhd|
+Z60 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/colector_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R21
+l53
+L46
+V9gm8ZYL<Tf;224@;@1aVN0
+!s100 `>OAVT4YLBhRg[RjIXH6b2
+R11
+32
+R12
+!i10b 1
+R13
+R59
+R60
+!i113 1
+R16
+R17
+Ectrl_i2c
+R0
+R4
+R5
+R6
+R7
+R8
+Z61 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/control_i2c.vhd
+Z62 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/control_i2c.vhd
+l0
+L65
+VSdm_]LL[JzZUZgj5^[XKT2
+!s100 K_L1B51VR8FFGU596TG8C3
+R11
+32
+Z63 !s110 1618770096
+!i10b 1
+Z64 !s108 1618770096.000000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/control_i2c.vhd|
+Z66 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/control_i2c.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+Z67 DEx4 work 8 ctrl_i2c 0 22 Sdm_]LL[JzZUZgj5^[XKT2
+l119
+L104
+VaFf`[zjHaoU1I=VJ8b?@63
+!s100 Ad=3@]l;nMJ4h:OGOXchF1
+R11
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R16
+R17
+Ectrl_reloj
+Z68 w1515412346
+R4
+R5
+R6
+R7
+R25
+Z69 8G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/ctrl_reloj.vhd
+Z70 FG:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/ctrl_reloj.vhd
+l0
+L5
+VloLlmli<lYBRm2zIh;?2d3
+!s100 94:m`kOJoCWd18`UD@h;S1
+R28
+32
+R38
+!i10b 1
+R39
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/ctrl_reloj.vhd|
+Z72 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/ctrl_reloj.vhd|
+!i113 1
+R16
+R33
+Artl
+R4
+R5
+R6
+R7
+Z73 DEx4 work 10 ctrl_reloj 0 22 loLlmli<lYBRm2zIh;?2d3
+l43
+L23
+VAJG]hVITcTE?3QaPRH;Io0
+!s100 ^dPnj_8a^H9X_?YM8nUf[3
+R28
+32
+R38
+!i10b 1
+R39
+R71
+R72
+!i113 1
+R16
+R33
+Ectrl_tec
+Z74 w1490290132
+R4
+R5
+R6
+R7
+R25
+Z75 8G:/Asignaturas/DD2/2019/MEDTH/hdl/control_teclado/ctrl_tec.vhd
+Z76 FG:/Asignaturas/DD2/2019/MEDTH/hdl/control_teclado/ctrl_tec.vhd
+l0
+L21
+VWPZ5H=@5D<gk4bJ`mVWk=1
+!s100 :;6f@:_F[UEmMCNDeVEOc1
+R28
+32
+Z77 !s110 1552581830
+!i10b 1
+Z78 !s108 1552581830.000000
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/control_teclado/ctrl_tec.vhd|
+Z80 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/control_teclado/ctrl_tec.vhd|
+!i113 1
+R16
+R33
+Artl
+R4
+R5
+R6
+R7
+DEx4 work 8 ctrl_tec 0 22 WPZ5H=@5D<gk4bJ`mVWk=1
+l51
+L37
+VfQZzhM<6b6Z3hBAfQDDP=0
+!s100 D9iK9e`T^`LkQVHd7E2Cl0
+R28
+32
+R77
+!i10b 1
+R78
+R79
+R80
+!i113 1
+R16
+R33
+Edisplays
+Z81 w1515420708
+R4
+R5
+R6
+R7
+R25
+Z82 8G:/Asignaturas/DD2/2019/MEDTH/hdl/displays/displays.vhd
+Z83 FG:/Asignaturas/DD2/2019/MEDTH/hdl/displays/displays.vhd
+l0
+L32
+V1ahk>lVhEFDMYW@G:FP4e3
+!s100 RbgXH=3d465TH_zl<EJCA2
+R28
+32
+R29
+!i10b 1
+R78
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/displays/displays.vhd|
+Z85 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/displays/displays.vhd|
+!i113 1
+R16
+R33
+Artl
+R4
+R5
+R6
+R7
+DEx4 work 8 displays 0 22 1ahk>lVhEFDMYW@G:FP4e3
+l78
+L55
+V[i7IU>B@;=f9G?Ml^_I>m3
+!s100 Ic7`3gPFkKSk6YjF?T^Xd3
+R28
+32
+R29
+!i10b 1
+R78
+R84
+R85
+!i113 1
+R16
+R33
+Efifo_256x8_dp
+R0
+R4
+R5
+R6
+R7
+R8
+Z86 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/fifo_256x8_dp.vhd
+Z87 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/fifo_256x8_dp.vhd
+l0
+L10
+Vmm@<UdL=6cEc`]1UK^@Fz3
+!s100 3ncz_b1m7?E0:o4?Q@n<;0
+R11
+32
+Z88 !s110 1618770097
+!i10b 1
+Z89 !s108 1618770097.000000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/fifo_256x8_dp.vhd|
+Z91 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/fifo_256x8_dp.vhd|
+!i113 1
+R16
+R17
+Artl
+Z92 DPx9 altera_mf 20 altera_mf_components 0 22 JIZVPUohD7dNa?8:C5^LG2
+Z93 DEx4 work 12 ram_dp_256x8 0 22 niWYH5dn^HXnfefKnRflg0
+R4
+R5
+R6
+R7
+Z94 DEx4 work 13 fifo_256x8_dp 0 22 mm@<UdL=6cEc`]1UK^@Fz3
+l30
+L24
+VI_cf1;5U4@W`>WGnJ`Lja3
+!s100 ^3?08H34YLXkMXX55zSF]0
+R11
+32
+R88
+!i10b 1
+R89
+R90
+R91
+!i113 1
+R16
+R17
+Efifo_dp_256x8
+R0
+R6
+R7
+R8
+Z95 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/FIFO_dp_256x8.vhd
+Z96 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/FIFO_dp_256x8.vhd
+l0
+L43
+Vz:f8QI[PK5z6z:So`XdS50
+!s100 45WYU0kLGh`XO^Kh>2NL[0
+R11
+32
+R63
+!i10b 1
+R64
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/FIFO_dp_256x8.vhd|
+Z98 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/FIFO_dp_256x8.vhd|
+!i113 1
+R16
+R17
+Asyn
+R6
+R7
+Z99 DEx4 work 13 fifo_dp_256x8 0 22 z:f8QI[PK5z6z:So`XdS50
+l96
+L60
+VKSEIEmX:WkGPndBSM8Q:U3
+!s100 FE39O_[@JSLH^zVPcQ@;;0
+R11
+32
+R63
+!i10b 1
+R64
+R97
+R98
+!i113 1
+R16
+R17
+Efiltro_sda
+R0
+R4
+R5
+R6
+R7
+R8
+Z100 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/filtro_SDA.vhd
+Z101 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/filtro_SDA.vhd
+l0
+L34
+Vj:?PmGN:kh2O4hbYmR=P[3
+!s100 Az8cVgn;:^_]P_[V0j7h32
+R11
+32
+R63
+!i10b 1
+R64
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/filtro_SDA.vhd|
+Z103 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/filtro_SDA.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+Z104 DEx4 work 10 filtro_sda 0 22 j:?PmGN:kh2O4hbYmR=P[3
+l47
+L42
+VGSCZ`8U8ad]H[[KSSH<m]1
+!s100 6IO9370GJ;VcjB1_V:b@g2
+R11
+32
+R63
+!i10b 1
+R64
+R102
+R103
+!i113 1
+R16
+R17
+Egen_scl
+R0
+R4
+R5
+R6
+R7
+R8
+Z105 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/gen_SCL.vhd
+Z106 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/gen_SCL.vhd
+l0
+L72
+V9a;Fa:2fP7P8Gg`:86jL93
+!s100 9TIN2CJ?;ef8_CK>XK[4@1
+R11
+32
+R63
+!i10b 1
+R64
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/gen_SCL.vhd|
+Z108 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/gen_SCL.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+Z109 DEx4 work 7 gen_scl 0 22 9a;Fa:2fP7P8Gg`:86jL93
+l120
+L85
+VAVZJWHaNHdjf_czHg2LZI2
+!s100 9V:IAGn@]MjHYPoPo:IY11
+R11
+32
+R63
+!i10b 1
+R64
+R107
+R108
+!i113 1
+R16
+R17
+Einterfaz_i2c
+R0
+R4
+R5
+R6
+R7
+R8
+Z110 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\interfaz_i2c.vhd
+Z111 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\interfaz_i2c.vhd
+l0
+L43
+VakCR];moeHN`hm_L0LQoF0
+!s100 FiE0j`D8JSgYEJM8zOWDV3
+R11
+32
+R63
+!i10b 1
+R64
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\interfaz_i2c.vhd|
+Z113 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\interfaz_i2c.vhd|
+!i113 1
+R16
+R17
+Aestructural
+Z114 DEx4 work 10 reg_in_sda 0 22 8akS9iOdXalgjh]iA;oQj0
+R104
+Z115 DEx4 work 11 reg_out_sda 0 22 T5U`2@TX0No0V35Ao^3Y<0
+R67
+R109
+R4
+R5
+R6
+R7
+Z116 DEx4 work 12 interfaz_i2c 0 22 akCR];moeHN`hm_L0LQoF0
+l74
+L58
+VQQk8mh01^Em2N[VZb6fO40
+!s100 `IamZaD@`AN<Va87U`Eo]0
+R11
+32
+R63
+!i10b 1
+R64
+R112
+R113
+!i113 1
+R16
+R17
+Einterfaz_periferico
+R0
+R4
+R5
+R6
+R7
+R8
+Z117 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/interfaz_periferico.vhd
+Z118 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/interfaz_periferico.vhd
+l0
+L51
+VlJd=Ro1dnT;e@JPTQ?K^`2
+!s100 k3<91l5j<V9@CYj[1iCRH2
+R11
+32
+R63
+!i10b 1
+R64
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/interfaz_periferico.vhd|
+Z120 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/interfaz_periferico.vhd|
+!i113 1
+R16
+R17
+Artl
+R94
+R99
+R4
+R5
+R6
+R7
+Z121 DEx4 work 19 interfaz_periferico 0 22 lJd=Ro1dnT;e@JPTQ?K^`2
+l100
+L71
+Ve]`?>`>B:;BkooeIe@T:42
+!s100 C7TnY<JHRB:fR4UYJ@ZW20
+R11
+32
+R63
+!i10b 1
+R64
+R119
+R120
+!i113 1
+R16
+R17
+Emedth
+R0
+R6
+R7
+R8
+Z122 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\MEDTH.vhd
+Z123 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\MEDTH.vhd
+l0
+L37
+VQJKA_M6<ej@;9Sd3b@JU^3
+!s100 gJH2n9h1Na`@]o>c@KD<e1
+R11
+32
+Z124 !s110 1618770095
+!i10b 1
+Z125 !s108 1618770095.000000
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\MEDTH.vhd|
+Z127 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\MEDTH.vhd|
+!i113 1
+R16
+R17
+Astruct
+Z128 DEx4 work 10 pll_100mhz 0 22 M3IhSU?2f0<`YkWAoiBel0
+Z129 DEx4 work 17 procesador_medida 0 22 >ZT`:jRPVZU8F6PTYMKjf1
+Z130 DEx4 work 14 periferico_i2c 0 22 Y]lJV@fYMoHRGFW>26=l:1
+R4
+R5
+Z131 DEx4 work 5 timer 0 22 9lClT5>jbcVF`F[5m[nMn0
+R6
+R7
+Z132 DEx4 work 5 medth 0 22 QJKA_M6<ej@;9Sd3b@JU^3
+l65
+L52
+VM>L@f025J9hclQ==oCX272
+!s100 :aOz7HRY[kdiDZzH3M]zg3
+R11
+32
+R124
+!i10b 1
+R125
+R126
+R127
+!i113 1
+R16
+R17
+Emonitor_slave_i2c
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z133 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/monitor_slave_i2c.vhd
+Z134 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/monitor_slave_i2c.vhd
+l0
+L53
+V?]X@Sgo[QicRV^1F83?f83
+!s100 _m<6=EAF6WCUF1Az:j^3B0
+R11
+32
+R12
+!i10b 1
+R13
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/monitor_slave_i2c.vhd|
+Z136 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/monitor_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R20
+l69
+L68
+VLPHcEm=eDNN6JN_DYOIVk1
+!s100 ^gj9ki<i598SLlQIc]j]=3
+R11
+32
+R12
+!i10b 1
+R13
+R135
+R136
+!i113 1
+R16
+R17
+Ppack_agente_slave_i2c
+R1
+R4
+R5
+R2
+R6
+R7
+R0
+R8
+Z137 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_agente_slave_i2c.vhd
+Z138 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_agente_slave_i2c.vhd
+l0
+L10
+Vi1TAaLHQ3^G?R7PGmWMAB2
+!s100 :m2do0__Nnf8nQ^ULW_EA2
+R11
+32
+b1
+R88
+!i10b 1
+R89
+Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_agente_slave_i2c.vhd|
+Z140 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_agente_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Bbody
+R3
+R1
+R4
+R5
+R2
+R6
+R7
+l0
+L79
+V]FkM9z8f3Q:nHM8J_N>:Z3
+!s100 JKj0_W_nCVFIl]zMInSD60
+R11
+32
+R88
+!i10b 1
+R89
+R139
+R140
+!i113 1
+R16
+R17
+Ppack_random_functions
+R1
+R4
+R5
+R6
+R7
+R0
+R8
+Z141 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_random_functions.vhd
+Z142 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_random_functions.vhd
+l0
+L10
+VF>9H=kQ^j[57XcUT2JENK1
+!s100 @_@AXAD4n1mU<O@jW@3>h2
+R11
+32
+b1
+R88
+!i10b 1
+R89
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_random_functions.vhd|
+Z144 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_random_functions.vhd|
+!i113 1
+R16
+R17
+Bbody
+R2
+R1
+R4
+R5
+R6
+R7
+l0
+L44
+V4IO`<m=9=AMC>7ZLFkdTY2
+!s100 Un?LVZ:gkQ3J77ozm^NoA3
+R11
+32
+R88
+!i10b 1
+R89
+R143
+R144
+!i113 1
+R16
+R17
+Ppack_seq_slave_i2c
+R3
+R1
+R4
+R5
+R2
+R6
+R7
+R0
+R8
+Z145 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_seq_slave_i2c.vhd
+Z146 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_seq_slave_i2c.vhd
+l0
+L11
+Vf3jIdLM[^Bbb`In31PWaX3
+!s100 :jC=1eSX>Wjnc_7GOX1B63
+R11
+32
+b1
+R88
+!i10b 1
+R89
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_seq_slave_i2c.vhd|
+Z148 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/pack_seq_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Bbody
+R18
+R3
+R1
+R4
+R5
+R2
+R6
+R7
+l0
+L61
+V89WV<4PW2bjAZQ_MP<0MD1
+!s100 CzGWYR3P2e`:]l5>4U@kY2
+R11
+32
+R88
+!i10b 1
+R89
+R147
+R148
+!i113 1
+R16
+R17
+Ppack_test_reloj
+Z149 DPx4 work 17 pack_test_teclado 0 22 0CJYhb8DV8cEhQlCg]hQh2
+R4
+R5
+R6
+R7
+Z150 w1515423233
+R25
+Z151 8G:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_reloj.vhd
+Z152 FG:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_reloj.vhd
+l0
+L7
+V;2]ASnOWJjYNEc5d5FT]U2
+!s100 ;I4Z3b`lMm88S`MTbF?5]0
+R28
+32
+b1
+R38
+!i10b 1
+R39
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_reloj.vhd|
+Z154 !s107 G:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_reloj.vhd|
+!i113 1
+R16
+R33
+Bbody
+Z155 DPx4 work 15 pack_test_reloj 0 22 ;2]ASnOWJjYNEc5d5FT]U2
+R149
+R4
+R5
+R6
+R7
+l0
+L71
+VUeLjUGn80WK2mBI]cIYMl0
+!s100 ;RQUX^=:QFi8g?]B6afQM2
+R28
+32
+R38
+!i10b 1
+R39
+R153
+R154
+!i113 1
+R16
+R33
+Ppack_test_teclado
+R4
+R5
+R6
+R7
+Z156 w1515413877
+R25
+Z157 8G:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_teclado.vhd
+Z158 FG:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_teclado.vhd
+l0
+L11
+V0CJYhb8DV8cEhQlCg]hQh2
+!s100 W9YREiO[Vj3A]F_8O5KoA1
+R28
+32
+b1
+R77
+!i10b 1
+R78
+Z159 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_teclado.vhd|
+Z160 !s107 G:/Asignaturas/DD2/2019/MEDTH/modelsim/TEST/pack_test_teclado.vhd|
+!i113 1
+R16
+R33
+Bbody
+R149
+R4
+R5
+R6
+R7
+l0
+L40
+VF7h?M7:nhL9oS:3>IFCZH2
+!s100 ^OfNh=dW09lO[SlSPUOUz0
+R28
+32
+R77
+!i10b 1
+R78
+R159
+R160
+!i113 1
+R16
+R33
+Eperiferico_i2c
+R0
+R4
+R5
+R6
+R7
+R8
+Z161 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\periferico_i2c.vhd
+Z162 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\periferico_i2c.vhd
+l0
+L51
+VY]lJV@fYMoHRGFW>26=l:1
+!s100 e>zlD3=i`lWgPEJ>a;16d3
+R11
+32
+R63
+!i10b 1
+R64
+Z163 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\periferico_i2c.vhd|
+Z164 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\periferico_i2c\periferico_i2c.vhd|
+!i113 1
+R16
+R17
+Aestructural
+R116
+R121
+R4
+R5
+R6
+R7
+R130
+l73
+L64
+VPUOdW_5`Y<CbV]4W5TU9K3
+!s100 EaE;WeT2A8MWO5OFB]UmI3
+R11
+32
+R63
+!i10b 1
+R64
+R163
+R164
+!i113 1
+R16
+R17
+Epll_100mhz
+R0
+R6
+R7
+R8
+Z165 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\pll\pll_100MHz.vhd
+Z166 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\pll\pll_100MHz.vhd
+l0
+L43
+VM3IhSU?2f0<`YkWAoiBel0
+!s100 X]FOlS`[@X1?7NhU158C]2
+R11
+32
+R124
+!i10b 1
+R125
+Z167 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\pll\pll_100MHz.vhd|
+Z168 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\pll\pll_100MHz.vhd|
+!i113 1
+R16
+R17
+Asyn
+R6
+R7
+R128
+l139
+L65
+V5L[mPJHUMZhXE_bzQ<VND2
+!s100 OmD`@I3UNn>FNdbCO8HKL1
+R11
+32
+R124
+!i10b 1
+R125
+R167
+R168
+!i113 1
+R16
+R17
+Asim
+R6
+R7
+R128
+l52
+L51
+VY;ZI9al6S;?F[JcDSoomj1
+!s100 JnR3@BAPcRP39NT^a0?^20
+R11
+32
+R124
+!i10b 1
+R125
+R167
+R168
+!i113 1
+R16
+R17
+Eprocesador_medida
+Z169 w1618765025
+R4
+R5
+R6
+R7
+R8
+Z170 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\procesador_t_h\procesador_medida.vhd
+Z171 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\procesador_t_h\procesador_medida.vhd
+l0
+L16
+V>ZT`:jRPVZU8F6PTYMKjf1
+!s100 HSSVIM>o5]RSXXGH<6O=o0
+R11
+32
+R12
+!i10b 1
+R13
+Z172 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\procesador_t_h\procesador_medida.vhd|
+Z173 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\procesador_t_h\procesador_medida.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+R129
+l48
+L36
+Z174 V3zcIje1PTonY2HT7=G<X@0
+Z175 !s100 0jgCeUZf512KeUjOYNd6e0
+R11
+32
+R12
+!i10b 1
+R13
+R172
+R173
+!i113 1
+R16
+R17
+Eram_dp_256x8
+R0
+R92
+R6
+R7
+R8
+Z176 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/RAM_DP_256x8.vhd
+Z177 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/RAM_DP_256x8.vhd
+l0
+L43
+VniWYH5dn^HXnfefKnRflg0
+!s100 z4KTKRW1BGA9TfB0j?`K_2
+R11
+32
+R88
+!i10b 1
+R64
+Z178 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/RAM_DP_256x8.vhd|
+Z179 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/RAM_DP_256x8.vhd|
+!i113 1
+R16
+R17
+Asyn
+R92
+R6
+R7
+R93
+l60
+L56
+V5Uh4hVNCN<aFh`QH?67kJ3
+!s100 zL@JlBRf0aZCFl`E4NQ:62
+R11
+32
+R88
+!i10b 1
+R64
+R178
+R179
+!i113 1
+R16
+R17
+Ereg_in_sda
+R0
+R4
+R5
+R6
+R7
+R8
+Z180 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_in_SDA.vhd
+Z181 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_in_SDA.vhd
+l0
+L38
+V8akS9iOdXalgjh]iA;oQj0
+!s100 CiE]JDSFB@3PMPHSjYQP62
+R11
+32
+R88
+!i10b 1
+R89
+Z182 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_in_SDA.vhd|
+Z183 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_in_SDA.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+R114
+l49
+L48
+V^kZca3NIXA7<BA4OB<coJ2
+!s100 I_C?heEWYciXKQjZgKjWz3
+R11
+32
+R88
+!i10b 1
+R89
+R182
+R183
+!i113 1
+R16
+R17
+Ereg_out_sda
+R0
+R4
+R5
+R6
+R7
+R8
+Z184 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_out_SDA.vhd
+Z185 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_out_SDA.vhd
+l0
+L48
+VT5U`2@TX0No0V35Ao^3Y<0
+!s100 IWIKD^0XC6FjMR`ED1^m73
+R11
+32
+R63
+!i10b 1
+R64
+Z186 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_out_SDA.vhd|
+Z187 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/hdl/periferico_i2c/reg_out_SDA.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+R115
+l64
+L60
+VRHQ?dz;VOR7`[SRCI3^g=1
+!s100 CYO>VUWhUzNEejOM?4nBK2
+R11
+32
+R63
+!i10b 1
+R64
+R186
+R187
+!i113 1
+R16
+R17
+Ereloj
+Z188 w1514917281
+R4
+R5
+R6
+R7
+R25
+Z189 8G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/reloj.vhd
+Z190 FG:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/reloj.vhd
+l0
+L5
+V=FU40]=4LdEDf8]28gQDL2
+!s100 ;3c`LK7ZkEUQ;S[S62FB>2
+R28
+32
+R46
+!i10b 1
+R47
+Z191 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/reloj.vhd|
+Z192 !s107 G:/Asignaturas/DD2/2019/MEDTH/hdl/reloj/reloj.vhd|
+!i113 1
+R16
+R33
+Aestructural
+R51
+R73
+R4
+R5
+R6
+R7
+DEx4 work 5 reloj 0 22 =FU40]=4LdEDf8]28gQDL2
+l29
+L22
+V<:KfMoGQcAnlS0KRECOE=0
+!s100 =2^z:`D`1<kFjL?OzX_RZ2
+R28
+32
+R46
+!i10b 1
+R47
+R191
+R192
+!i113 1
+R16
+R33
+Eresponder_slave_i2c
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z193 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/responder_slave_i2c.vhd
+Z194 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/responder_slave_i2c.vhd
+l0
+L40
+Vk?liIK5KYNe=BWn1ZBlKC2
+!s100 RmkmgYX73MKKPKQh8_bNQ1
+R11
+32
+R88
+!i10b 1
+R89
+Z195 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/responder_slave_i2c.vhd|
+Z196 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/responder_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R22
+l59
+L51
+VElP`ZFj::5nzG4XehKX_M2
+!s100 Y`B^G;M_gziF[Qzjn9FOC1
+R11
+32
+R88
+!i10b 1
+R89
+R195
+R196
+!i113 1
+R16
+R17
+Esequencer_slave_i2c
+R0
+R18
+R3
+R1
+R2
+R4
+R5
+R6
+R7
+R8
+Z197 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/sequencer_slave_i2c.vhd
+Z198 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/sequencer_slave_i2c.vhd
+l0
+L32
+Vej:DjLO5DV[HAd[nE<h7<2
+!s100 Zz2KH]jKnFeXXMClP@:m02
+R11
+32
+R88
+!i10b 1
+R89
+Z199 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/sequencer_slave_i2c.vhd|
+Z200 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/sequencer_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R18
+R3
+R1
+R2
+R4
+R5
+R6
+R7
+R19
+l46
+L45
+V`0i;<Q@E3WIzjnIQi5UiV1
+!s100 <X3_?FEB1>e8SIZ8Pe]G?2
+R11
+32
+R88
+!i10b 1
+R89
+R199
+R200
+!i113 1
+R16
+R17
+Etest_monitor_reloj
+R0
+R149
+R155
+R4
+R5
+R6
+R7
+R8
+Z201 8C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/test_monitor_reloj.vhd
+Z202 FC:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/test_monitor_reloj.vhd
+l0
+L7
+VT77AY2;KKe[nMmj3^hD@43
+!s100 O^]AL_gmU>gRKKK:>5FiN2
+R11
+32
+R12
+!i10b 1
+R13
+Z203 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/test_monitor_reloj.vhd|
+Z204 !s107 C:/Users/crisa/OneDrive/Documentos/UNIVERSIDAD/ISE 2021/BLOQUE 2/Fase 1/ise_max1000_lpc1768/modelsim/TEST/test_monitor_reloj.vhd|
+!i113 1
+R16
+R17
+Atest
+R149
+R155
+R4
+R5
+R6
+R7
+DEx4 work 18 test_monitor_reloj 0 22 T77AY2;KKe[nMmj3^hD@43
+l26
+L24
+Va@EM_[P@ojUVaH=5XVk:51
+!s100 EiRVDg0o:bU@C3J^oYnH81
+R11
+32
+R12
+!i10b 1
+R13
+R203
+R204
+!i113 1
+R16
+R17
+Etest_top
+R0
+R1
+R2
+R3
+Z205 DPx12 modelsim_lib 4 util 0 22 I9VUm]?fD[2nYZzgoDM?l2
+R4
+R5
+R6
+R7
+R8
+Z206 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\modelsim\TEST\test_top.vhd
+Z207 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\modelsim\TEST\test_top.vhd
+l0
+L39
+VLi7z3@>lLlRZXeZ=oX:EO1
+!s100 hcfKUJgF]PV?8@^Z`LVT`1
+R11
+32
+R12
+!i10b 1
+R13
+Z208 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\modelsim\TEST\test_top.vhd|
+Z209 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\modelsim\TEST\test_top.vhd|
+!i113 1
+R16
+R17
+Atest
+R23
+R132
+R1
+R2
+R3
+R205
+R4
+R5
+R6
+R7
+DEx4 work 8 test_top 0 22 Li7z3@>lLlRZXeZ=oX:EO1
+l62
+L42
+VIaa8RZBGP_DSP8X74UL=[3
+!s100 2cQHHSo>;Q<BWfMJkVe7@3
+R11
+32
+R12
+!i10b 1
+R13
+R208
+R209
+!i113 1
+R16
+R17
+Etimer
+Z210 w1618769668
+R4
+R5
+R6
+R7
+R8
+Z211 8C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\timer\timer.vhd
+Z212 FC:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\timer\timer.vhd
+l0
+L24
+V9lClT5>jbcVF`F[5m[nMn0
+!s100 l06cJPzQY@7BRSNIFjjh=2
+R11
+32
+R124
+!i10b 1
+R125
+Z213 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\timer\timer.vhd|
+Z214 !s107 C:\Users\crisa\OneDrive\Documentos\UNIVERSIDAD\ISE 2021\BLOQUE 2\Fase 1\ise_max1000_lpc1768\hdl\timer\timer.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+R131
+l48
+L40
+VALmE:@0ejhao?ZK3o13^02
+!s100 8>G?_YXOb`AiLhcGY?;=01
+R11
+32
+R124
+!i10b 1
+R125
+R213
+R214
+!i113 1
+R16
+R17

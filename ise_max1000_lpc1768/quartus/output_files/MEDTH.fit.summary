@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Apr 18 20:24:18 2021
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : MEDTH
+Top-level Entity Name : MEDTH
+Family : MAX 10
+Device : 10M08SAU169C8G
+Timing Models : Final
+Total logic elements : 230 / 8,064 ( 3 % )
+    Total combinational functions : 225 / 8,064 ( 3 % )
+    Dedicated logic registers : 117 / 8,064 ( 1 % )
+Total registers : 117
+Total pins : 4 / 130 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 2,048 / 387,072 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 48 ( 0 % )
+Total PLLs : 1 / 1 ( 100 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )

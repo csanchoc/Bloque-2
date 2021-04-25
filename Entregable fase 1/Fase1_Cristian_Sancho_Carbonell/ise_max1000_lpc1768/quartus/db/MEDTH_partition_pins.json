@@ -1,0 +1,21 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SDA",
+					"strict" : false
+				},
+				{
+					"name" : "SCL",
+					"strict" : false
+				},
+				{
+					"name" : "nRst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

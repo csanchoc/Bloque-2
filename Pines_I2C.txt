@@ -1,0 +1,3 @@
+SCL - PIN E6 BANK 1A - signal AIN4   - PIN6 J1
+SDA - PIN D1 BANK 1A - signal AIN3   - PIN5 J1
+GND - PIN11 J2
